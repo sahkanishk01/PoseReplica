@@ -198,3 +198,4 @@ This project is for educational and personal use. MediaPipe is subject to MIT li
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
+
